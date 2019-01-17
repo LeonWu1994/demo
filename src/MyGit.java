@@ -6,6 +6,7 @@ public class MyGit {
         System.out.println("sdfg");
         System.out.println("mygit");
         System.out.println("mygit");
+        System.out.println("修改了代码");
 
     }
 }
