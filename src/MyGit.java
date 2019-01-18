@@ -7,6 +7,8 @@ public class MyGit {
         System.out.println("mygit");
         System.out.println("mygit");
         System.out.println("修改了代码");
+        System.out.println("修改了代码");
+        System.out.println("修改了代码");
 
     }
 }
